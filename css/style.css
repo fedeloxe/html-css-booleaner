@@ -8,3 +8,15 @@
 #logo{
     height: 100px;
 }
+
+#intestazione-grey{
+    color: grey;
+}
+
+#autore-azzurro{
+    color: rgb(0, 162, 255);
+}
+
+#data{
+    font-size: 80% ;
+}
