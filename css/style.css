@@ -65,3 +65,19 @@ td{
 #titolo-footer{
     color: gray;
 }
+
+#imgfoot1{
+    background-image: url(../img/monitor.jpg);
+    height: 200px;
+    width: 250px;
+    margin-top: 15px;
+   
+}
+
+#imgfoot2{
+    background-image: url(../img/graph.jpg);
+    height: 200px;
+    width: 250px;
+    margin-top: 15px;
+   
+}
