@@ -1,0 +1,96 @@
+#logo{width: 950px;
+    margin: auto;
+}
+
+
+main{
+    width: 1100px;
+    margin: auto;
+}
+
+footer{width: 1100px;
+    margin: auto;
+}
+
+#banner{
+   background-image: url(../img/pattern.png ) ;
+   background-size: 400px;
+   background-color: deepskyblue;
+   height: 100px;
+}
+
+#logo{
+ margin-top: 50px;  
+ height: 50px;
+}
+
+#titolo1{
+    font-size: 50px;
+}
+
+#intestazione-grey{
+   color: grey;
+}
+
+#autore-azzurro{
+   color: rgb(0, 162, 255);
+}
+
+#data{
+   font-size: 15px ;
+}
+
+#foto{
+   margin-top: 20px;
+   font-size: 10px;
+}
+
+.testo-evidenziato{ 
+   background-color: yellow;
+}
+
+ul{
+   padding-left: 15px;
+}
+
+table { 
+    border-spacing: 0;
+    border-collapse: collapse;
+}
+
+thead{
+    background-color: deepskyblue;
+    color: white;
+}
+
+td{
+    width: 250px;
+}
+
+#td3{
+    width: 500px;
+}
+
+.tr2{
+  background-color:lightblue;
+}
+
+#titolo-footer{
+    color: gray;
+}
+
+#imgfoot1{
+    background-image: url(../img/monitor.jpg);
+    height: 200px;
+    width: 250px;
+    margin-top: 15px;
+   
+}
+
+#imgfoot2{
+    background-image: url(../img/graph.jpg);
+    height: 200px;
+    width: 250px;
+    margin-top: 15px;
+   
+}
