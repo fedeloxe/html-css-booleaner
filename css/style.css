@@ -3,10 +3,16 @@
    background-image: url(../img/pattern.png ) ;
    background-size: 400px;
    background-color: deepskyblue;
+   height: 100px;
 }
 
 #logo{
- height: 100px;
+ margin-top: 50px;  
+ height: 50px;
+}
+
+#titolo1{
+    font-size: 50px;
 }
 
 #intestazione-grey{
@@ -26,32 +32,36 @@
    font-size: 10px;
 }
 
-#testo-evidenziato{ 
+.testo-evidenziato{ 
    background-color: yellow;
 }
 
 ul{
    padding-left: 15px;
- }
+}
 
- table { 
+table { 
     border-spacing: 0;
     border-collapse: collapse;
-    }
+}
 
- thead{
+thead{
     background-color: deepskyblue;
     color: white;
- }
+}
 
- td{
+td{
     width: 250px;
- }
+}
 
- #td3{
+#td3{
     width: 500px;
- }
+}
 
- #tr2{
-    background-color:lightblue;
- }
+.tr2{
+  background-color:lightblue;
+}
+
+#titolo-footer{
+    color: gray;
+}
