@@ -1,22 +1,35 @@
 
 #banner{
-    background-image: url(../img/pattern.png ) ;
-    background-size: 400px;
-    background-color: deepskyblue;
+   background-image: url(../img/pattern.png ) ;
+   background-size: 400px;
+   background-color: deepskyblue;
 }
 
 #logo{
-    height: 100px;
+ height: 100px;
 }
 
 #intestazione-grey{
-    color: grey;
+   color: grey;
 }
 
 #autore-azzurro{
-    color: rgb(0, 162, 255);
+   color: rgb(0, 162, 255);
 }
 
 #data{
-    font-size: 80% ;
+   font-size: 15px ;
 }
+
+#foto{
+   margin-top: 20px;
+   font-size: 10px;
+}
+
+#testo-evidenziato{ 
+   background-color: yellow;
+}
+
+ul{
+   padding-left: 15px;
+ }
